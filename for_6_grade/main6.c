@@ -6,7 +6,7 @@
 #include <fcntl.h>
 #include <string.h>
 
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 5000
 
 void read_and_write(int read_pipe, int write_pipe, const char *input_file, const char *output_file);
 void execute_punctuation_counter(int read_pipe, int write_pipe);
