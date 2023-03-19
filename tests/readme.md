@@ -41,3 +41,17 @@ The Grand Canyon, USA: This vast and awe-inspiring canyon in Arizona is carved b
 The Great Barrier Reef, Australia: The world's largest coral reef system is a vibrant and diverse underwater ecosystem that is home to thousands of species of fish, marine mammals, and other creatures.
 
 Machu Picchu, Peru: This ancient Incan city nestled in the Andes Mountains is one of the most impressive archaeological sites in the world, with its stone temples, terraces, and panoramic views.
+
+## Результаты тестирования
+### На 4 балла
+![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/4points.png)
+### На 5 баллов
+![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/5points.png)
+### На 6 баллов
+![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/6points.png)
+### На 7 баллов
+![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/7points.png)
+### На 8 баллов
+![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/8points.png)
+
+## Вывод Все версии программ от 4 до 8 баллов работают одинаково и корректно.
