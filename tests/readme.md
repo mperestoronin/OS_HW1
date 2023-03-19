@@ -43,6 +43,7 @@ The Great Barrier Reef, Australia: The world's largest coral reef system is a vi
 Machu Picchu, Peru: This ancient Incan city nestled in the Andes Mountains is one of the most impressive archaeological sites in the world, with its stone temples, terraces, and panoramic views.
 
 ## Результаты тестирования
+На фото представлено сразу 5 текстовых файлов output.txt, output2.txt, output3.txt, output4.txt, output5.txt. Каждый из этих файлов содержит результат соотвестваущего теста.
 ### На 4 балла
 ![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/4points.png)
 ### На 5 баллов
@@ -54,4 +55,5 @@ Machu Picchu, Peru: This ancient Incan city nestled in the Andes Mountains is on
 ### На 8 баллов
 ![](https://github.com/mperestoronin/OS_HW1/blob/main/tests/8points.png)
 
-## Вывод Все версии программ от 4 до 8 баллов работают одинаково и корректно.
+## Вывод
+Все версии программ от 4 до 8 баллов работают одинаково и корректно.
