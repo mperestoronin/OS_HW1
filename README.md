@@ -10,6 +10,7 @@
 - `mkfifo pipe1`
 - `mkfifo pipe2`
 - `mkfifo sync_pipe`
+
 это создаст `pipe1, pipe2, sync_pipe`
 после чего пишем `./main8` в одном окне терминала, а в другом `./main8rw input.txt output.txt`
 ### Непосредственно про саму программу:
