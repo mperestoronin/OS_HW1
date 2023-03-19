@@ -7,7 +7,7 @@
 #include <string.h>
 #include <sys/stat.h>
 
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 5000
 #define PIPE1_NAME "pipe1"
 #define PIPE2_NAME "pipe2"
 
