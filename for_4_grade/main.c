@@ -7,7 +7,7 @@
 #include <string.h>
 #include <sys/stat.h>
 
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 5000
 
 void read_from_file(int pipe_fd, const char *file_name);
 void execute_punctuation_counter(int read_fd, int write_fd);
